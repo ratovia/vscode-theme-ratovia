@@ -4,7 +4,8 @@
 * open Color theme preferences and apply this theme "ratovia"
 
 ## Screenshot
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![ruby](https://github.com/ratovia/vscode-theme-ratovia/blob/master/img/ruby-sample.png "ruby")
+![python](https://github.com/ratovia/vscode-theme-ratovia/blob/master/img/python-sample.png "python")
+![JavaScript](https://github.com/ratovia/vscode-theme-ratovia/blob/master/img/js-sample.png "JavaScript")
 
 **Enjoy!**
