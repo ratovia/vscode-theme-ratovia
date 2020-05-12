@@ -1,0 +1,22 @@
+{
+    "name": "ratovia",
+    "publisher": "ratovia",
+    "displayName": "ratovia",
+    "description": "",
+    "version": "0.1.0",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "ratovia",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ratovia-color-theme.json"
+            }
+        ]
+    }
+}

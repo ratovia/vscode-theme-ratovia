@@ -1,0 +1,12 @@
+{
+	"tokenColors": "./ratovia.tmTheme",
+	"colors": {
+		"editor.background": "#110917",
+		"editorCursor.foreground": "#f8f8f0ff",
+		"editor.foreground": "#FCFFDB",
+		"editorWhitespace.foreground": "#37323B",
+		"editor.lineHighlightBackground": "#35313D",
+		"editor.selectionBackground": "#3F3C47"
+	},
+	"name": "ratovia"
+}
